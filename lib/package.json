@@ -1,6 +1,6 @@
 {
   "name": "@torusadvisors/clickhouse_storage",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "The library helps insert data over chunks",
   "main": "index.js",
   "scripts": {
